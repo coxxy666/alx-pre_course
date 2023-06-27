@@ -1,1 +1,1 @@
-file will be updated
+The school is open!
