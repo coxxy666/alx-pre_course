@@ -1,1 +1,1 @@
-ALX School is so cool!
+How to be up to date in git
