@@ -1,1 +1,1 @@
-How to be up to date in git
+file will be updated
